@@ -14,3 +14,6 @@ The function source code
 ![Ubuntu 14.04下运行图](https://github.com/cwlseu/mat3/blob/master/data/Screenshot%20from%202017-03-23%2023-24-31.png)
 ### MSVC result
 ![Ubuntu 14.04下运行图](https://github.com/cwlseu/mat3/blob/master/data/result.JPG)
+
+## reference
+[https://github.com/hbristow/cvmatio](https://github.com/hbristow/cvmatio)
